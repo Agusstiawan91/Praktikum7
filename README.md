@@ -1,5 +1,5 @@
 # Penjelasan program Praktikum7
-Program Input Nilai
+# Program Input Nilai
 
 program dimulai dengan menampilkan menu pilihan : Lihat, Tambah, Ubah, Hapus, Cari, dan Keluar data.
 1. Lihat Data (L):
@@ -33,3 +33,8 @@ program dimulai dengan menampilkan menu pilihan : Lihat, Tambah, Ubah, Hapus, Ca
    Mengakhiri program dan menampilkan pesan terima kasih.
 
 # Flowchart
+![Teks Alternatif](flowchart_p7.png)
+
+# Screenshot
+![Teks Alternatif](ss_p7.png)
+![Teks Alternatif](ss2_p7.png)
